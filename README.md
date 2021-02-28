@@ -1,4 +1,4 @@
-![image-readme](../imagens/readme.png)
+![image-readme](imagens/readme.png)
 
 ---
 
