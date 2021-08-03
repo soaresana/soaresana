@@ -2,7 +2,7 @@
 
 ---
 
-# Eii!! Sejam bem-vindxs 😊
+# Eii!! Sejam bem-vindes 😊
 
 Sou bacharel em Engenharia de Software pela [Puc Minas](https://www.pucminas.br/). E iniciei recentemente os meus estudos na área de dados. :computer:  
 
