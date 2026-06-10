@@ -1,13 +1,15 @@
-![image-readme](imagens/readme.png)
+# Ana Luiza Soares
 
----
+**Analista de Dados | Python · SQL · PySpark · Databricks**
 
-# Eii!! Sejam bem-vindes 😊
+Passei 3 anos no iFood transformando dados em decisão, nas frentes de Finanças (automação do P&L corporativo, integrando 5+ unidades de negócio no Databricks) e Groceries (KPIs operacionais, análises de viabilidade e diagnósticos de causa raiz para diretoria).
 
-Sou bacharel em Engenharia de Software pela [Puc Minas](https://www.pucminas.br/). E iniciei recentemente os meus estudos na área de dados. :computer:  
+Atualmente em atualização ativa em IA generativa aplicada a dados. Este perfil é onde isso vira código.
 
-Gosto de ler :books:, maratonar séries :tv: e ouvir música a maior parte do tempo :headphones:
+## Stack
 
------
- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-squere&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soaresana/)](https://www.linkedin.com/in/soaresana/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-squere&logo=Instagram&logoColor=white&link=https://www.instagram.com/analuiiiiiiiiza/)](https://www.instagram.com/analuiiiiiiiiza/) 
+Python · SQL · PySpark · Databricks · Snowflake · Airflow · AWS (S3, Athena, Glue) · Tableau · Alation · Git
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/soaresana) · soares.analima3@gmail.com
